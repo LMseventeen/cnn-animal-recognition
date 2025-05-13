@@ -22,7 +22,7 @@
 
 1. 克隆项目：
 ```bash
-git clone https://github.com/LMseventeen/NNs.git
+git clone https://github.com/LMseventeen/cnn-animal-recognition.git
 cd [项目目录]
 ```
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 数据集准备
 
-1. 下载数据集，数据集在hugging face中搜索Wuhao17/cnn-animal-recognition，即可免费下载（下载的同时也可以点个like）
+1. 下载数据集，数据集在hugging face（https://huggingface.co/）中搜索Wuhao17/cnn-animal-recognition，即可免费下载（下载的同时也可以点个like）
 2. 将数据集解压到项目目录下
 3. 确保数据集结构如下：
 ```
