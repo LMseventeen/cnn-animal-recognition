@@ -109,10 +109,10 @@ python animal_recognition_app.py
 
 ## 训练参数
 
-- 批次大小：32
+- 批次大小：64
 - 学习率：0.001
 - 优化器：Adam
-- 训练轮数：50
+- 训练轮数：100
 - 损失函数：CrossEntropyLoss
 
 ## 图形界面功能
