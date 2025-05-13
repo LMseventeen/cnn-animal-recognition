@@ -22,7 +22,7 @@
 
 1. 克隆项目：
 ```bash
-git clone [项目地址]
+git clone https://github.com/LMseventeen/NNs.git
 cd [项目目录]
 ```
 
