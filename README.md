@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
 ## 数据集准备
 
-1. 下载 Animals-10 数据集
-2. 将数据集解压到 `data/animals-10` 目录下
+1. 下载数据集，数据集在hugging face中搜索Wuhao17/cnn-animal-recognition，即可免费下载（下载的同时也可以点个like）
+2. 将数据集解压到项目目录下
 3. 确保数据集结构如下：
 ```
 data/animals-10/
