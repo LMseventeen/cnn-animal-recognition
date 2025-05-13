@@ -70,6 +70,7 @@ python animal_recognition_app.py
    - 点击"选择图片"按钮选择要识别的动物图片
    - 点击"识别"按钮进行识别
    - 查看识别结果和置信度
+![Uploading 32f50127633f602d8bac390d0efbc54.png…]()
 
 3. 支持的图片格式：
    - PNG
