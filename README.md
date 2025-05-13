@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## 数据集准备
 
 1. 下载数据集，数据集在hugging face中搜索Wuhao17/cnn-animal-recognition，即可免费下载（下载的同时也可以点个like）
-2. hugging face地址（https://huggingface.co/）
+2. hugging face地址 https://huggingface.co/
 3. 将数据集解压到项目目录下
 4. 确保数据集结构如下：
 ```
