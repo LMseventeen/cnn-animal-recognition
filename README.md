@@ -8,6 +8,7 @@
 - 针对类内差异大、背景干扰强等问题进行了优化
 - 使用Animals-10数据集，支持10类常见动物的识别
 - 包含完整的数据预处理、训练和评估流程
+- 模型在验证集准确率达到84%
 - 提供图形界面应用程序，方便模型使用
 
 ## 环境要求
@@ -32,11 +33,12 @@ pip install -r requirements.txt
 ```
 
 ## 数据集准备
-
-1. 下载数据集，数据集在hugging face中搜索Wuhao17/cnn-animal-recognition，即可免费下载（下载的同时也可以点个like）
-2. hugging face地址 https://huggingface.co/
-3. 将数据集解压到项目目录下
-4. 确保数据集结构如下：
+1.数据集在raw-img文件夹中
+2.将数据集分成训练集（80%）和验证集（20%）
+```bash
+python prepare_dataset.py
+```
+3. 确保数据集结构如下：
 ```
 data/animals-10/
     ├── train/
