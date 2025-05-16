@@ -67,6 +67,7 @@ python train.py
 ```bash
 python train.py
 ```
+![联想截图_20250512214030](https://github.com/user-attachments/assets/da1dda76-add6-41b3-8d6e-9fce4eb2ca2f)
 
 ### 使用图形界面应用程序
 
@@ -79,6 +80,7 @@ python animal_recognition_app.py
    - 点击"选择图片"按钮选择要识别的动物图片
    - 点击"识别"按钮进行识别
    - 查看识别结果和置信度
+![联想截图_20250513111720](https://github.com/user-attachments/assets/96065c16-def0-426f-b0d7-53f38ba66ddf)
 
 
 3. 支持的图片格式：
